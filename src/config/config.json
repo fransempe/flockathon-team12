@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "Venturino | John Deere ",
+    "base_url": "https://www.ricardoventurino.com.ar/",
+    "base_path": "/",
+    "favicon": "/favicon.png",
+    "logo": "https://www.ricardoventurino.com.ar/themes/JD2017/img/deere_logo.png",
+    "lang": "en",
+    "description": "",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "",
+    "meta_description": ""
+  },
+  "author": {
+    "name": "USUARIO - Nombre",
+    "avatar": "https://cdn.icon-icons.com/icons2/217/PNG/512/user-green_25326.png",
+    "bio": ""
+  }
+}
