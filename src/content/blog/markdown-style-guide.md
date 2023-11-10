@@ -3,7 +3,7 @@ title: 'Avanzado: Operación y Optimización para el Tractor John Deere 6170J'
 description: 'Diseñado para aquellos que desean llevar su conocimiento y habilidades en la operación del tractor John Deere 6170J a un nivel superior. Este programa está diseñado para usuarios con experiencia que buscan dominar las características avanzadas y optimizar el rendimiento de este tractor de última generación.'
 pubDate: 'Jul 01 2022'
 heroImage: '/6170j3.png'
-categories: ['life']
+categories: ['No disponible']
 authors: ['gndx']
 tags: ['johndeere', 'agro']
 ---
