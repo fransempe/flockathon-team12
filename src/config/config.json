@@ -18,7 +18,9 @@
     "meta_description": ""
   },
   "author": {
-    "name": "USUARIO - Nombre",
+    "name": "Roberto Sanchez",
+    "id": "#123456",
+    "email": "roberto@venturino.com",
     "avatar": "https://cdn.icon-icons.com/icons2/217/PNG/512/user-green_25326.png",
     "bio": ""
   }
