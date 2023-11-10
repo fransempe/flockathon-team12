@@ -1,0 +1,29 @@
+---
+import Base from "@layouts/Base.astro";
+import Page from "@layouts/Page.astro";
+
+import FormattedDate from '@components/FormattedDate.astro';
+import { Image } from 'astro:assets';
+---
+
+<Base meta_title="Ia">
+  <Page title="Consultar con la IA">
+    <article class="flex w-full flex-col items-start">
+      <div class="mb-1 block overflow-hidden rounded-lg">
+          <figure class="h-auto w-auto object-cover md:h-[500px]">
+            <Image
+              class="cursor-progress transition duration-300 ease-in-out hover:scale-110"
+              src={"https://www.repository.dealerwebmanager.com/sites/repository.dealerwebmanager.com/files/2023-07/JD_ANA_Conce_1170x478.jpg"}
+              alt={"sad"}
+              width={960}
+              height={480}
+              decoding="async"
+              loading="lazy"
+            />
+            </figure>
+      </div>
+      
+    </article>
+    
+  </Page>
+</Base>

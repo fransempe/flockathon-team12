@@ -5,8 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Acerca",
+      "name": "Evaluaciones",
       "url": "/about"
+    },
+    {
+      "name": "IA",
+      "url": "/ia"
     }
   ]
 }

@@ -8,7 +8,6 @@ const posts = (await getCollection("blog")).sort(
 );
 ---
 <div class="m-auto">
-
   <Posts posts={posts} />
   <div class="text-end mt-10">
     <a
@@ -19,5 +18,4 @@ const posts = (await getCollection("blog")).sort(
       <RightArrowIcon />
     </a>
   </div>
-  
 </div>

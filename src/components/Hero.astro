@@ -25,7 +25,8 @@ const socialItems = social.networks;
       >
         Email: {config.author.email}
       </h1>
-        <div class="flex space-x-5 pt-8 m-auto">
+      <h4>Insignias logradas:</h4>
+        <div class="flex space-x-3 pt-2 m-auto">
           {
             socialItems?.map((item) => (
               <a href={item.url} target="_blank" rel="noopener noreferrer">
@@ -50,6 +51,7 @@ const socialItems = social.networks;
             loading="lazy"
           />
         </figure>
+        
       </div>
     </div>
   </div>
